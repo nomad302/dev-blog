@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sagar Nargundi`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sagar Nargundi`,
+      summary: `Who build and write about Web and Software Engineering`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Personal Blog.`,
+    siteUrl: `https://sagar-nargundi.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `1_sagar_1`,
     },
   },
   plugins: [
@@ -64,7 +64,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#1e1e1e`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
